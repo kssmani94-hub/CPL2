@@ -1,9 +1,9 @@
 Flask
 Flask-SQLAlchemy
 SQLAlchemy
-psycopg2-binary   # For PostgreSQL
+psycopg2-binary
 python-dotenv
-gunicorn          # For Render
+gunicorn
 Flask-Login
 Werkzeug
 pandas            # For the import script
