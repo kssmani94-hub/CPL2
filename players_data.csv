@@ -1,0 +1,86 @@
+﻿player_name,image_filename,is_retained,retaining_team_name,last_year_price,cpl_2024_team,cpl_2024_innings,cpl_2024_runs,cpl_2024_wickets,cpl_2024_sr,cpl_2024_hs,overall_matches,overall_runs,overall_wickets,overall_sr,overall_hs
+Durairaj,simbu.png,FALSE,,,,-,-,-,-,-,26,437,20,108.98,54
+Jayakumar,siva.png,FALSE,,,,-,-,-,-,-,85,567,117,103.47,62
+Sivaraj.k,chandru.png,FALSE,,,,-,-,-,-,-,117,2582,74,120.77,77
+Tamizharasan M,simbu.png,FALSE,,,,-,-,-,-,-,75,981,3,139.74,75
+Kaviyarasan.k,siva.png,FALSE,,,,-,-,-,-,-,167,1005,187,87.85,54
+Kamalakannan,chandru.png,FALSE,,,,-,-,-,-,-,13,307,1,178.49,74
+Prakash,simbu.png,FALSE,-,,-,-,-,-,-,-,12,4,0,16,3
+Kannan,siva.png,FALSE,-,,-,-,-,-,-,-,208,3242,244,110.16,110
+Hakkim sate,chandru.png,FALSE,-,,-,-,-,-,-,-,140,1174,162,90.73,64
+Sudhanraj,simbu.png,FALSE,-,,-,-,-,-,-,-,64,917,51,117.26,97
+Karthikeyan,siva.png,FALSE,-,,-,-,-,-,-,-,27,338,24,125.65,63
+Siva,chandru.png,FALSE,-,,-,-,-,-,-,-,15,92,12,75.41,23
+Sivakumar csk,simbu.png,FALSE,-,,-,-,-,-,-,-,203,2696,214,107.15,74
+Naveen,siva.png,FALSE,-,,-,-,-,-,-,-,92,355,49,57.82,28
+PREMKUMAR,chandru.png,FALSE,-,,-,-,-,-,-,-,307,6704,269,127.79,136
+Ram chandran,simbu.png,FALSE,-,,-,-,-,-,-,-,80,619,2,121.14,58
+S.DEVA KUMAR,siva.png,FALSE,-,,-,-,-,-,-,-,220,4929,115,124.75,139
+KATHIRAVAN J,chandru.png,FALSE,-,,-,-,-,-,-,-,86,307,123,88.22,39
+Mano m,simbu.png,FALSE,-,,-,-,-,-,-,-,26,210,5,73.68,63
+AR Sathakathulla,siva.png,FALSE,-,,-,-,-,-,-,-,171,1702,253,93.47,68
+Boovaragavan,chandru.png,FALSE,Crazy-11,,Crazy-11,7,64,,125.49,32,93,1211,7,145.55,65
+Veeramuthu,simbu.png,FALSE,-,,-,-,-,-,-,-,172,290,120,64.02,34
+Rajasekar,siva.png,FALSE,-,,-,-,-,-,-,-,24,13,15,34.21,5
+BANSINGH B,chandru.png,FALSE,-,,-,-,-,-,-,-,78,1910,17,134.6,116
+Jeevananthan K,simbu.png,FALSE,-,,-,-,-,-,-,-,4,25,2,58.14,14
+Karthik,siva.png,FALSE,-,,-,-,-,-,-,-,182,4356,154,145.2,107
+Raj,chandru.png,FALSE,-,,-,-,-,-,-,-,54,255,56,80.95,26
+Vishal praveen,simbu.png,FALSE,-,,-,-,-,-,-,-,4,36,5,60,30
+Sridhar,siva.png,FALSE,-,,-,-,-,-,-,-,51,332,41,75.8,52
+K.Aswin kumar,chandru.png,FALSE,-,,-,-,-,-,-,-,150,154,112,45.83,43
+AVINESH .K,simbu.png,FALSE,-,,-,-,-,-,-,-,102,1069,42,88.27,45
+SARATHI,siva.png,FALSE,-,,-,-,-,-,-,-,52,397,4,74.91,38
+RahulRaja,chandru.png,FALSE,-,,-,-,-,-,-,-,88,1111,1,71.26,53
+Raam Prakash R,simbu.png,FALSE,-,,-,-,-,-,-,-,177,2717,53,122.39,63
+Arun,siva.png,FALSE,-,,-,-,-,-,-,-,41,612,23,181.6,71
+Pugazhenthi,chandru.png,FALSE,-,,-,-,-,-,-,-,79,865,76,85.64,61
+Sriram,simbu.png,FALSE,-,,-,-,-,-,-,-,216,5124,114,93.86,107
+Ranjithkumar.K,siva.png,FALSE,-,,-,-,-,-,-,-,2,7,0,46.67,5
+SANTHOSH R,chandru.png,FALSE,-,,-,-,-,-,-,-,69,732,97,78.29,43
+KATHIRAVAN M,simbu.png,FALSE,-,,-,-,-,-,-,-,21,51,13,22.47,18
+S.KARTHICK,siva.png,FALSE,-,,-,-,-,-,-,-,168,3390,117,120,101
+velmani,chandru.png,FALSE,,,,,,,,,152,1056,213,78.28,68
+Ramachandran,simbu.png,FALSE,,,,,,,,,,,,,
+yuvaraj,siva.png,FALSE,,,,,,,,,,,,,
+sanjai Rishi,chandru.png,FALSE,,,,,,,,,,,,,
+SILAMBARASAN,simbu.png,TRUE,APJ TAMIZHAN,1500,,,,,,,109,1908,147,120.84,103
+RANJITH,siva.png,TRUE,APJ TAMIZHAN,1400,,,,,,,71,970,35,110.6,105
+SARANRAJ,chandru.png,TRUE,APJ TAMIZHAN,1350,,,,,,,160,1399,215,113.74,62
+ARUNDHARSHAN,simbu.png,TRUE,APJ TAMIZHAN,575,,,,,,,-,-,-,-,-
+RAMESH,siva.png,TRUE,APJ TAMIZHAN,475,,,,,,,88,1165,47,144.72,110
+PRATHISH,chandru.png,TRUE,APJ TAMIZHAN,325,,,,,,,81,1155,37,77.05,72
+MUKIL,simbu.png,TRUE,THUNDER STRIKERS,1800,,,,,,,268,7352,105,138.07,119
+ANBU,siva.png,TRUE,THUNDER STRIKERS,1650,,,,,,,235,1343,199,87.78,100
+GURU,chandru.png,TRUE,THUNDER STRIKERS,1500,,,,,,,229,2392,324,67.17,61
+DINESH,simbu.png,TRUE,THUNDER STRIKERS,700,,,,,,,89,794,90,92.22,58
+VIGNESH,siva.png,TRUE,THUNDER STRIKERS,675,,,,,,,,,,,
+CHANDRU,chandru.png,TRUE,THUNDER STRIKERS,650,,,,,,,268,6070,101,126.96,121
+CHINNAPULLA,simbu.png,TRUE,THUNDER STRIKERS,650,,,,,,,43,428,21,108.08,90
+HARI,siva.png,TRUE,THUNDER STRIKERS,450,,,,,,,142,1984,81,86.64,79
+RAJAMOORTHI,chandru.png,TRUE,THUNDER STRIKERS,425,,,,,,,,,,,
+SATHISH RAJU,simbu.png,TRUE,THUNDER STRIKERS,225,,,,,,,50,714,7,154.88,82
+VASANTH,siva.png,TRUE,CRAZY 11,1700,,,,,,,135,2813,38,102.03,78
+NITHYARAJ,chandru.png,TRUE,CRAZY 11,1500,,,,,,,118,1573,167,83.05,84
+PRIYADHARSHAN,simbu.png,TRUE,CRAZY 11,1100,,,,,,,108,1457,2,77.46,139
+NAVEEN,siva.png,TRUE,CRAZY 11,900,,,,,,,54,388,58,92.38,52
+THILLAI,chandru.png,TRUE,CRAZY 11,225,,,,,,,15,30,1,44.12,6
+ABI,simbu.png,TRUE,CRAZY 11,225,,,,,,,39,209,23,101.95,42
+SRIDHAR,siva.png,TRUE,DADA WARRIORS,2600,,,,,,,52,332,41,75.8,52
+PRAVEEN,chandru.png,TRUE,DADA WARRIORS,1500,,,,,,,77,849,88,90.71,62
+KAMAL,simbu.png,TRUE,DADA WARRIORS,375,,,,,,,82,1365,7,94.73,67
+FRANKLIN,siva.png,TRUE,DADA WARRIORS,225,,,,,,,166,1822,17,80.41,83
+PRAKASH,chandru.png,TRUE,DADA WARRIORS,225,,,,,,,78,878,43,91.84,55
+SIVA SUBRAMANIYAN,simbu.png,TRUE,DADA WARRIORS,225,,,,,,,23,61,10,54.95,21
+DHARNESH,siva.png,TRUE,DADA WARRIORS,225,,,,,,,96,1807,18,90.21,132
+VEERA,chandru.png,TRUE,JOLLY PLAYERS,1700,,,,,,,156,2224,155,123.62,100
+VINOTH,simbu.png,TRUE,JOLLY PLAYERS,1500,,,,,,,77,446,49,84.31,41
+MOULI,siva.png,TRUE,JOLLY PLAYERS,1100,,,,,,,78,553,55,108.86,47
+VASUDEVAN,chandru.png,TRUE,JOLLY PLAYERS,250,,,,,,,34,68,35,53.54,14
+KISHORE,simbu.png,TRUE,JOLLY PLAYERS,225,,,,,,,76,334,46,46.2,36
+SANJITH,siva.png,TRUE,JOLLY PLAYERS,225,,,,,,,64,488,1,56.61,54
+POOVARASAN,chandru.png,TRUE,SPARTEN ROCKERZ,1850,,,,,,,237,5776,157,116.97,107
+BHARATHI,simbu.png,TRUE,SPARTEN ROCKERZ,1500,,,,,,,214,2474,283,104.74,67
+ABISHEK,siva.png,TRUE,SPARTEN ROCKERZ,275,,,,,,,32,454,1,91.16,64
+GOWTHAM,chandru.png,TRUE,SPARTEN ROCKERZ,225,,,,,,,73,426,48,76.76,39
+BALAJI,simbu.png,TRUE,SPARTEN ROCKERZ,225,,,,,,,113,247,71,64.66,24

@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+SQLAlchemy
+psycopg2-binary   # For PostgreSQL
+python-dotenv
+gunicorn          # For Render
+Flask-Login
+Werkzeug
+pandas            # For the import script
+openpyxl          # For the import script
