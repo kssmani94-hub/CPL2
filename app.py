@@ -147,7 +147,7 @@ def check_admin_password(username, password):
 def home():
     total_players = Player.query.count(); retained_players_count = Player.query.filter_by(is_retained=True).count(); auction_pool_count = total_players - retained_players_count; team_count = Team.query.count(); max_total_slots = team_count * 15; total_auction_slots_available = max_total_slots - retained_players_count
     try:
-        auction_date_str = "2025-12-20"; auction_date = datetime.datetime.strptime(auction_date_str, "%Y-%m-%d").date(); today = datetime.date.today(); days_to_go = (auction_date - today).days
+        auction_date_str = "2025-11-02"; auction_date = datetime.datetime.strptime(auction_date_str, "%Y-%m-%d").date(); today = datetime.date.today(); days_to_go = (auction_date - today).days
         if days_to_go < 0: days_to_go = 0
     except ValueError: days_to_go = 60
     return render_template('index.html', active_page='home', player_count=auction_pool_count, team_count=team_count, slots_remaining=total_auction_slots_available, days_to_go=days_to_go)
@@ -403,4 +403,5 @@ def export_team_excel(team_id):
 
 # --- RUN THE APP ---
 if __name__ == '__main__':
+
     app.run(debug=True)
